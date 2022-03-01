@@ -9,6 +9,5 @@ def minimalis():
                 minimum=n
         else:
             return minimum
-
 if __name__ == "__main__":
     print(minimalis())

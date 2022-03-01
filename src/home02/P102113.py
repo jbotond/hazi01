@@ -16,6 +16,5 @@ def primteszt():
         else:
             oszt=oszt+1
             continue
-
 if __name__ == "__main__":
     print(primteszt())
